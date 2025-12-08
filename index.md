@@ -2,6 +2,6 @@
 
 Here's my project tracking ICE spottings and comparing them to census data!
 
-<iframe src="ice_locations.html" height="500" width="500"></iframe>iframe>
+<iframe src="ice_locations.html" height="855" width="95%"></iframe>iframe>
 
 You can explore this map [as its own web page here](ice_locations.html).
