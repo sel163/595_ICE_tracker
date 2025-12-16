@@ -10,6 +10,21 @@ The source for ICE sightings is [stopice.net](https://www.stopice.net/). This si
 
 The source for population data is the American Community Survey 2019 5-year estimates. These were originally downloaded in tabular form and joined to shapefiles at the tract level. Some tracts contained poor data quality estimates which are addressed by white hatching in the static maps. Data was further refined to North Jersey only using a clip function to specified North Jersey-counties.
 
+Census Data includes the following (in each tract):
+Total Population
+*Total Foreign-Born Population (Naturalized and Non-citizens)
+*Non-citizen Foreign-Born Population
+*Non-citizen population -- European birthplace
+*Non-citizen population -- Asian birthplace
+*Non-citizen population -- African birthplace
+*Non-citizen population -- Oceania birthplace
+*Non-citizen population -- Latin American birthplace
+*Non-citizen population -- Northern American birthplace
+*Limited-English Households
+Household Income
+
+*This information was converted into rates against "Total Population"
+
 <img src="Foreign-Born_State.png" height="600"> <img src="Foreign-Born_North.png" height="600">
 
 Notice an issue? Let me know at sean.lamb@rutgers.edu!
