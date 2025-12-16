@@ -17,7 +17,7 @@ Total Population\
 *Non-citizen population -- European birthplace\
 *Non-citizen population -- Asian birthplace\
 *Non-citizen population -- African birthplace\
-*Non-citizen population -- Oceania birthplace\
+*Non-citizen population -- Oceanic birthplace\
 *Non-citizen population -- Latin American birthplace\
 *Non-citizen population -- Northern American birthplace\
 *Limited-English Households\
