@@ -14,4 +14,4 @@ The source for population data is the American Community Survey 2019 5-year esti
 
 Notice an issue? Let me know at sean.lamb@rutgers.edu!
 
-You can explore this map [as its own web page here](ice_locations.html).
+You can explore this map [as its own web page here](ice_tracker.html).
