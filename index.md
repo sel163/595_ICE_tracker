@@ -10,6 +10,8 @@ The source for ICE sightings is https://www.stopice.net/. This site collects use
 
 The source for population data is the American Community Survey 2019 5-year estimates. These were originally downloaded in tabular form and joined to shapefiles at the tract level. Some tracts contained poor data quality estimates which are addressed by white hatching in the static maps.
 
+<iframe src="Foreign-Born_North.png" height="855" width="45%"></iframe>
+
 Notice an issue? Let me know at sean.lamb@rutgers.edu!
 
 You can explore this map [as its own web page here](ice_locations.html).
