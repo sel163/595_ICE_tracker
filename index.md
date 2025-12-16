@@ -10,7 +10,7 @@ The source for ICE sightings is https://www.stopice.net/. This site collects use
 
 The source for population data is the American Community Survey 2019 5-year estimates. These were originally downloaded in tabular form and joined to shapefiles at the tract level. Some tracts contained poor data quality estimates which are addressed by white hatching in the static maps.
 
-<img src="Foreign-Born_State.png" width="45%"> <img src="Foreign-Born_North.png" width="45%">
+<img src="Foreign-Born_State.png" width="35%"> <img src="Foreign-Born_North.png" width="55%">
 
 Notice an issue? Let me know at sean.lamb@rutgers.edu!
 
