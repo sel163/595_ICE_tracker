@@ -39,4 +39,8 @@ Household Income
 
 Notice an issue? Let me know at sean.lamb@rutgers.edu!
 
+Known Issues:\
+Accuracy of some ICE sighting reports.\
+Incomplete ICE raid data
+
 You can explore this map [as its own web page here](ICE_tracker.html).
