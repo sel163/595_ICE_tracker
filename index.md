@@ -31,6 +31,7 @@ Household Income
 
 <br/><br/>
 <br/><br/>
+<br/><br/>
 
 <div align="center">
   <img src="Foreign_Born_Subpops.png">
