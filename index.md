@@ -29,6 +29,10 @@ Household Income
   <img src="Foreign_Born_Merged.png">
 </div>
 
+<div align="center">
+  <img src="Foreign_Born_Subpops.png">
+</div>
+
 Notice an issue? Let me know at sean.lamb@rutgers.edu!
 
 You can explore this map [as its own web page here](ice_tracker.html).
