@@ -26,7 +26,7 @@ Household Income
 *This information was converted into rates against "Total Population"
 
 <div align="center">
-  <img src="Foreign-Born_State.png" height="600"> <img src="Foreign-Born_North.png" height="600">
+  <img src="Foreign_Born_Merged.png">
 </div>
 
 Notice an issue? Let me know at sean.lamb@rutgers.edu!
