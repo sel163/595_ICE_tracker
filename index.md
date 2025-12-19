@@ -29,9 +29,8 @@ Household Income
   <img src="Foreign_Born_Merged.png">
 </div>
 
-   return
-   return
-   return
+<br/><br/>
+<br/><br/>
 
 <div align="center">
   <img src="Foreign_Born_Subpops.png">
